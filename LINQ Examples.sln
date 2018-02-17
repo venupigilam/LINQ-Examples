@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ Examples", "LINQ Examples\LINQ Examples.csproj", "{CDA94D20-A32A-4099-9AA7-166AE8467470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQtoSQL", "LINQtoSQL\LINQtoSQL.csproj", "{1E81149C-C8E8-45F0-8861-4A8C60C8DADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_Examples_New", "Linq_Examples_New\Linq_Examples_New.csproj", "{B46D4BCB-6C7E-4D4C-A34C-02533917530D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA94D20-A32A-4099-9AA7-166AE8467470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA94D20-A32A-4099-9AA7-166AE8467470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA94D20-A32A-4099-9AA7-166AE8467470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA94D20-A32A-4099-9AA7-166AE8467470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E81149C-C8E8-45F0-8861-4A8C60C8DADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E81149C-C8E8-45F0-8861-4A8C60C8DADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E81149C-C8E8-45F0-8861-4A8C60C8DADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E81149C-C8E8-45F0-8861-4A8C60C8DADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46D4BCB-6C7E-4D4C-A34C-02533917530D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46D4BCB-6C7E-4D4C-A34C-02533917530D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46D4BCB-6C7E-4D4C-A34C-02533917530D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46D4BCB-6C7E-4D4C-A34C-02533917530D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
